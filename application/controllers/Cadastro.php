@@ -133,3 +133,4 @@ class Cadastro extends CI_Controller {
 	
 }
 ?>
+<!-- jbbvhdbvhdbvhvb -->
